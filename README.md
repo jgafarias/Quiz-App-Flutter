@@ -4,10 +4,11 @@ A Flutter Project, I made this project based on [Flutter & Dart - The Complete G
 
 # Demo
 
+<div align = "center">
 
 https://github.com/user-attachments/assets/8ac49054-0022-4baa-a352-c617f4dac2c7
 
-
+</div>
 
 ## Getting Started
 
